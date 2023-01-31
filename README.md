@@ -11,13 +11,13 @@ npm install -g svg-to-react-tsx
 ## Usage
 
 ```bash
-svg-to-react-tsx <Folder path of SVGs> [TSX Output Folder (optional)] [--lazy]
+svg-to-react-tsx <Folder path of SVGs> [TSX Output Folder] [--lazy]
 ```
 
 ## Parameters
 
     <Folder path of SVGs>: Required. The path to the folder containing the SVG files that you want to convert.
-    <TSX Output Folder (optional)>: Optional. The path to the folder where the converted TSX files will be saved. If not provided, the files will be saved in the same folder as the SVG files.
+    <TSX Output Folder>: Optional. The path to the folder where the converted TSX files will be saved. If not provided, the files will be saved in the same folder as the SVG files.
     --lazy: Optional flag to use lazy importing for your index.ts.
 
 ## Example
