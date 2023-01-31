@@ -1,6 +1,6 @@
 {
   "name": "svg-to-react-tsx",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Simple terminal Node script to convert SVG to TypeScript React components",
   "main": "index.js",
   "scripts": {
