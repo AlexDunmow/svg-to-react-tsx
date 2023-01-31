@@ -1,0 +1,29 @@
+{
+  "name": "svg-to-react-tsx",
+  "version": "0.0.5",
+  "description": "Simple terminal Node script to convert SVG to TypeScript React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDunmow/svg-to-react-tsx.git"
+  },
+  "keywords": [
+    "svg",
+    "react",
+    "tsx",
+    "typescript"
+  ],
+  "author": "Alex Dunmow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexDunmow/svg-to-react-tsx/issues"
+  },
+  "homepage": "https://github.com/AlexDunmow/svg-to-react-tsx#readme",
+  "dependencies": {
+    "@svgr/core": "^6.5.1"
+  },
+  "bin": "./index.js"
+}
